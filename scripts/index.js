@@ -49,9 +49,9 @@ x = setInterval(function () {
     hh = h / 2,
     opts = {
       strings: ['SELAMAT', 'BERBUKA PUASA!', config.name],
-      charSize: 30,
-      charSpacing: 35,
-      lineHeight: 40,
+      charSize: 20,
+      charSpacing: 25,
+      lineHeight: 30,
 
       cx: w / 2,
       cy: h / 2,
